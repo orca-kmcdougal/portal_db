@@ -1,1 +1,1 @@
-select * from sample.act"# portal_db" 
+select * from sample.act;
